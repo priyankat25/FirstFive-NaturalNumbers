@@ -1,1 +1,1 @@
-# FirstFive-NaturalNumbers
+Praveen, a diligent software engineer, has been tasked with designing an algotithm to solve a complex problem. she requires the first 10 positive numbers not divisible by 5 as part of her algorithm design process.
